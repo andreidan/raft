@@ -1,2 +1,3 @@
-# raft
-Raft implementation for educational purposes
+# Raft
+
+Raft implementation playground (educational purposes). 

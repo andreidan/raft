@@ -1,0 +1,31 @@
+.idea/
+*.iml
+*.ipr
+*.iws
+build-idea/
+out/
+
+# eclipse files
+.project
+.classpath
+.settings
+build-eclipse/
+
+# netbeans files
+nb-configuration.xml
+nbactions.xml
+
+# gradle stuff
+.gradle/
+build/
+
+# vscode stuff
+.vscode/
+
+/logs/
+
+# osx stuff
+.DS_Store
+
+eclipse-build
+

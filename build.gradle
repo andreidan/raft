@@ -1,0 +1,17 @@
+plugins {
+    id 'java'
+}
+
+group 'org.kanelbullar'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+    compile('org.jetbrains:annotations:19.0.0')
+    compile('org.slf4j:slf4j-api:1.7.30')
+    compile('ch.qos.logback:logback-classic:1.2.3')
+}
